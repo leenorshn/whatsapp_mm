@@ -2,7 +2,7 @@ class ContactModel {
   late String nom;
   String? phone;
   late String imageUrl;
-
+// bonjour
   //ContactModel(this.nom,this.imageUrl,{this.phone="0978154329"});
 //ContactModel(this.phone,this.nom,this.imageUrl);
 
